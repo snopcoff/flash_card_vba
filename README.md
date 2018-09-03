@@ -6,7 +6,7 @@ First version will support Japanese Kanji - Romanji - English - Vietnamese.
 Data will be stored directly in the same file, in a different WorkSheet and can be updated.
 
 ### Function and task
-1. [ ] Template: Main Display Sheet and 4 Data Sheets.
+1. [x] Template: Main Display Sheet and 4 Data Sheets.
    * Flash Card
      * Displayed Word in the middle
      * Language in the bottom
